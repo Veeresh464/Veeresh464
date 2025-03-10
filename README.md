@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/veeresh464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="veeresh464" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/veeresh-s-hiremath-a01108254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/veeresh-s-hiremath-a01108254/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/veeresh464/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/veeresh464/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/veeresh s hiremath" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="veeresh s hiremath" height="30" width="40" /></a>
+<a href="https://instagram.com/veeresh464" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="veeresh464" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/vshhiremath2004" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/vshhiremath2004" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/u/veeresh464/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/veeresh464/" height="30" width="40" /></a>
 </p>
